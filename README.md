@@ -6,8 +6,20 @@ This project benchmarks the performance of few-shot learning (FSL) models agains
 
 ## Key Objectives
 
-    Benchmarking Few-shot Learning Models: Evaluate the performance of state-of-the-art FSL models such as StructShot & NNShot, Few-Shot Slot Tagging (FS-ST), and ProtoNER on medical NER tasks.
+**Benchmarking Few-shot Learning Models:** Evaluate the performance of state-of-the-art FSL models such as StructShot & NNShot, Few-Shot Slot Tagging (FS-ST), and ProtoNER on medical NER tasks.
 
-    Comparison with Traditional NER Models: Compare these FSL models with traditional NER models, including BERT-Linear Classifier, BERT-CRF, and SANER, to understand their relative strengths and weaknesses in low-resource settings.
+**Comparison with Traditional NER Models:** Compare these FSL models with traditional NER models, including BERT-Linear Classifier, BERT-CRF, and SANER, to understand their relative strengths and weaknesses in low-resource settings.
 
-    Analysis of Model Performance on Noisy and Clean Data: Investigate how the quality of the dataset (e.g., level of noise and ambiguity) affects the performance of these models, particularly in few-shot scenarios.
+**Analysis of Model Performance on Noisy and Clean Data:** Investigate how the quality of the dataset (e.g., level of noise and ambiguity) affects the performance of these models, particularly in few-shot scenarios.
+
+## Datasets
+
+The project utilizes five medical text datasets, each representing different aspects of the medical domain:
+
+**1. MIMIC III:** A publicly available dataset containing de-identified health-related data associated with critical care patients.  
+**2. N2C2 2018:** A dataset from the shared task focusing on adverse drug events (ADE) and medication extraction.  
+**3. I2B2 2014:** A dataset used for the de-identification of longitudinal medical records.  
+**4. BioNLP 2016:** Focused on extracting descriptions of genetic and molecular mechanisms from scientific articles.  
+**5. SMM4H 2021:** A social media mining dataset for health applications, particularly for ADE mention extraction.  
+
+
