@@ -4,6 +4,10 @@
 
 This project benchmarks the performance of few-shot learning (FSL) models against traditional named entity recognition (NER) models on medical text datasets. Utilizing five distinct medical datasets, the study compares the efficacy of three traditional NER models (BERT-Linear Classifier, BERT-CRF, SANER) with three FSL models (StructShot & NNShot, Few-Shot Slot Tagging, ProtoNER). The results highlight the challenges of applying FSL methods to medical texts, especially when working with small, noisy datasets, and emphasize the need for further research to improve FSL model performance in medical NLP.
 
+Notebooks for comparison of some few-shot and traditional NER models, used in the article "A comparison of few-shot and traditional named entity recognition models for medical text" which was published in the 2022 IEEE 10th International Conference on Healthcare Informatics (ICHI).
+
+Update (2024): The preprocessed data available
+
 ## Key Objectives
 
 **Benchmarking Few-shot Learning Models:** Evaluate the performance of state-of-the-art FSL models such as StructShot & NNShot, Few-Shot Slot Tagging (FS-ST), and ProtoNER on medical NER tasks.
