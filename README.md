@@ -57,3 +57,33 @@ Run the notebooks to preprocess the data, train the models, and evaluate their p
 ## Acknowledgments
 
 This research was supported by the National Institute on Drug Abuse (NIDA) of the National Institutes of Health (NIH).
+
+These code is inspired by the following resources:
+
+https://github.com/smitkiri/ehr-relation-extraction (by Smit Kiri)
+
+https://github.com/kyzhouhzau/BERT-NER (by Kaiyinzhou)
+
+https://github.com/cuhksz-nlp/SANER (by CUHK-SZ NLP Group)
+
+https://github.com/asappresearch/structshot (by ASAPP Research)
+
+https://github.com/AtmaHou/FewShotTagging (by AtmaHou)
+
+https://github.com/Fritz449/ProtoNER (by Alexander Fritzler)
+
+## How to cite
+
+If you use this code, you can make reference to the article where the script was made available, as follows:
+
+Yao Ge, Yuting Guo, Yuan-Chi Yang, Mohammed Ali Al-Garadi, Abeed Sarker. "[A comparison of few-shot and traditional named entity recognition models for medical text](https://ieeexplore.ieee.org/abstract/document/9874611)" Proceedings of the 10th IEEE International Conference on Healthcare Informatics (ICHI). 2022. pages: 84-89, doi: 10.1109/ichi54592.2022.00024. PMID: 37641590 PMCID: PMC10462421
+
+```bibtex
+@inproceedings{ge2022comparison,
+  title={A comparison of few-shot and traditional named entity recognition models for medical text},
+  author={Ge, Yao and Guo, Yuting and Yang, Yuan--Chi and Al--Garadi, Mohammed Ali and Sarker, Abeed},
+  booktitle={2022 IEEE 10th International Conference on Healthcare Informatics (ICHI)},
+  pages={84--89},
+  year={2022},
+  organization={IEEE}
+}
