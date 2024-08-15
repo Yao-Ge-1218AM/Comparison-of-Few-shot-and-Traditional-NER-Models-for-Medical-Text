@@ -80,7 +80,7 @@ https://github.com/Fritz449/ProtoNER (by Alexander Fritzler)
 
 If you use this code, you can make reference to the article where the script was made available, as follows:
 
-Yao Ge, Yuting Guo, Yuan-Chi Yang, Mohammed Ali Al-Garadi, Abeed Sarker. "[A comparison of few-shot and traditional named entity recognition models for medical text](https://ieeexplore.ieee.org/abstract/document/9874611)" Proceedings of the 10th IEEE International Conference on Healthcare Informatics (ICHI). 2022. pages: 84-89, doi: 10.1109/ichi54592.2022.00024. PMID: 37641590 PMCID: PMC10462421
+*Yao Ge, Yuting Guo, Yuan-Chi Yang, Mohammed Ali Al-Garadi, Abeed Sarker. "[A comparison of few-shot and traditional named entity recognition models for medical text](https://ieeexplore.ieee.org/abstract/document/9874611)" Proceedings of the 10th IEEE International Conference on Healthcare Informatics (ICHI). 2022. pages: 84-89, doi: 10.1109/ichi54592.2022.00024. PMID: 37641590 PMCID: PMC10462421*
 
 ```bibtex
 @inproceedings{ge2022comparison,
